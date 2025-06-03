@@ -22,7 +22,7 @@ a philosopher dies of starvation.\
 • Every philosopher needs to eat and should never starve.\
 • Philosophers do not communicate with each other.\
 • Philosophers do not know if another philosopher is about to die. \
-• Needless to say, philosophers should avoid dying!* \
+• Needless to say, philosophers should avoid dying!* 
 
 There was also a bonus project, where we could repeat the whole thing, but this time with semaphores. I did not do the bonus, but I might return to it in 
 the future.
@@ -46,5 +46,5 @@ the future.
    The second number is the time, in milliseconds, it will take the philosopher to die, after completing his last meal. \
    The third number is how long they should spend eating, in milliseconds. \
    The fourth number is how long they should spend sleeping, in milliseconds.\
-   The fifth number is optional, and represents the minimum number of times each philosopher should eat. \
+   The fifth number is optional, and represents the minimum number of times each philosopher should eat.
    
