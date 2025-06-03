@@ -30,3 +30,25 @@ a philosopher dies of starvation.
 
 There was also a bonus project, where we could repeat the whole thing, but this time with semaphores. I did not do the bonus, but I might return to it in 
 the future.
+
+### **How to use**
+
+1. Clone the repository:
+   ```
+   git clone git@github.com:natalie-mein/philosophers.git philo && cd philo
+   ```
+2. Make
+   ```
+   make
+   ```
+   This will generate a 'philo' executable
+3. Usage examples
+   ```
+   ./philo 4 500 200 200 5
+   ```
+   The first number represents the number of philosophers
+   The second number is the time, in milliseconds, it will take the philosopher to die, after completing his last meal.
+   The third number is how long they should spend eating, in milliseconds.
+   The fourth number is how long they should spend sleeping, in milliseconds.
+   The fifth number is optional, and represents the minimum number of times each philosopher should eat.
+   
