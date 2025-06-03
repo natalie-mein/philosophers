@@ -46,7 +46,7 @@ the future.
    ```
    ./philo 4 500 200 200 5
    ```
-   The first number represents the number of philosophers
+   The first number represents the number of philosophers. \n
    The second number is the time, in milliseconds, it will take the philosopher to die, after completing his last meal.
    The third number is how long they should spend eating, in milliseconds.
    The fourth number is how long they should spend sleeping, in milliseconds.
