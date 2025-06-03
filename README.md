@@ -13,7 +13,6 @@ I needed to include a mutex to protect a variable to avoid data race. I really l
 From the subject: *Here are the key things you need to know to succeed in this assignment:
 
 • One or more philosophers sit at a round table. There is a large bowl of spaghetti in the middle of the table.
-
 • The philosophers take turns eating, thinking, and sleeping. While they are eating, they are not thinking nor sleeping; 
 while thinking, they are not eating nor sleeping; and, of course, while sleeping, they are not eating nor thinking.
 • There are also forks on the table. There are as many forks as philosophers.
